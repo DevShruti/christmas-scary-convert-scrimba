@@ -3,5 +3,5 @@ let btn = document.getElementById("btn")
 
 btn.addEventListener(('click'), ()=>{
  console.log("fixed")
- greeting.style.fontFamily= ("mountains of chrstmas")
+ greeting.style.fontFamily= (`'Mountains of Christmas', cursive`)
 })
